@@ -1,0 +1,30 @@
+{
+  "name": "spacexapp",
+  "version": "1.0.0",
+  "description": "react app using graphql w/ react &amp; apollo. Uses spacex API.",
+  "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Capp using spacex api",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nodemon": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrismis79/spaceXapp.git"
+  },
+  "author": "Christine Fletcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrismis79/spaceXapp/issues"
+  },
+  "homepage": "https://github.com/Chrismis79/spaceXapp#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
