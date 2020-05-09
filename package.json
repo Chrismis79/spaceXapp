@@ -5,8 +5,8 @@
   "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Capp using spacex api",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "nodemon": "index.js"
+    "server": "nodemon",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
